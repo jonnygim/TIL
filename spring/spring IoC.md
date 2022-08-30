@@ -1,5 +1,5 @@
 # IoC (Inversion of Control)
-## 제어 역전, IoC(Inversion of Control)
+### 제어 역전, IoC(Inversion of Control)
 - 의존성에 대한 제어권이 뒤바뀜
 - 메소드나 객체의 호출 작업을 개발자가 결정하는 것이 아니라 외부에서 결정되는 것
 - 객체 간의 결합도를 줄임
@@ -83,7 +83,7 @@ ApplicationContext (BeanFactory)
 </br></br>
 
 # DI (Dependency Injection)
-## 의존성 주입, DI(Dependency Injection)
+### 의존성 주입, DI(Dependency Injection)
 
 - 제어의 역행이 일어날 때 스프링이 내부에 있는 객체들 간의 관계를 관리할 때 사용하는 기법
 - 일종의 IoC 라고 볼 수 있음
